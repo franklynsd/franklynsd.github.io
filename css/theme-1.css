@@ -2838,7 +2838,7 @@ footer.short-2 .contact-action:hover {
     bottom: 0px;
   }
   .top-bar .logo.logo-wide {
-    bottom: 3px;
+    bottom: 28px;
     margin-bottom: 22px;
   }
   .mobile-toggle {
@@ -3828,7 +3828,7 @@ footer.short-2 .contact-action:hover {
 }
 .simple-bar .logo {
   max-width: 800px;
-  max-height: 40px;
+  max-height: 70px;
   bottom: 12px;
   -webkit-transition: all .3s ease;
   -moz-transition: all .3s ease;
@@ -3850,7 +3850,7 @@ footer.short-2 .contact-action:hover {
   padding-bottom: 54px;
 }
 .simple-bar.nav-sticky .logo {
-  max-height: 30px;
+  max-height: 50px;
   bottom: 8px;
 }
 .simple-bar .subnav {
@@ -3864,7 +3864,7 @@ footer.short-2 .contact-action:hover {
 }
 @media all and (max-width: 767px) {
   .simple-bar .logo {
-    max-height: 30px;
+    max-height: 45px;
     bottom: 30px;
   }
   .simple-bar .menu li a {
